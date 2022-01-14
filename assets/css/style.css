@@ -1,0 +1,22 @@
+nav {
+    background-color: yellow;
+    display: flex;
+}
+
+.right {
+    display: flex;
+}
+
+.left {
+    color: black;
+}
+
+.left:hover {
+    color: #00cec9;
+}
+
+#section-1 {
+    
+    padding: 10px;
+}
+
